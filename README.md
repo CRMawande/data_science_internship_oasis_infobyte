@@ -18,10 +18,28 @@ Model Deployment: The best-performing model was selected and deployed for making
 Usage
 To replicate the results or utilize the trained model for classification, follow these steps:
 
-Clone the repository to your local machine.
-Install the required dependencies specified in the requirements.txt file.
-Run the provided code scripts or notebooks to train the model and evaluate its performance.
-Utilize the trained model for making predictions on new data by loading the saved model artifacts.
+### Setup and Requirements:
+To set up the environment for the Iris Flower Classification project, ensure you have Python installed on your system along with the following libraries:
 
-### Conclusion
-Task 1 of the AICTE OIB-SIP March-P2 Technical Assessment involved building a classification model for iris flowers based on their features. By following a systematic approach, including data preparation, model selection, evaluation, and deployment, a reliable model was developed for accurately predicting the species of iris flowers. The solution presented in this repository serves as an example of solving classification tasks in machine learning.
+NumPy: For numerical operations and array manipulation.
+Pandas: For data manipulation and analysis.
+Scikit-learn: For implementing machine learning algorithms and evaluation metrics.
+Matplotlib: For data visualization.
+Jupyter Notebook or any other Python IDE: For coding and experimentation.
+Additionally, you will need access to the Iris dataset, which is commonly available in the Scikit-learn library or can be downloaded from various online sources..
+
+# AICTE OIB-SIP Task 2: Employment Analysis
+
+### Task Description:
+The Unemployment Analysis project involves an in-depth exploration of historical labor market data and the prediction of future unemployment rates using advanced data science techniques. The primary objective is to uncover insights and formulate actionable recommendations based on the analysis.
+
+### Approach:
+This project employs Python, along with libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Plotly, to conduct a thorough analysis and visualization of unemployment data. The process includes reading, preprocessing, analyzing, and visualizing the data to provide a comprehensive understanding of the unemployment landscape.
+
+### Setup and Requirements:
+To execute this project, Python must be installed on your system, along with the following libraries: NumPy, Pandas, Matplotlib, Seaborn, Plotly, IPython, and access to Google Colab.
+
+### Data Source:
+The dataset for this project is contained within the file "unemployment.csv". It encompasses a range of historical labor market metrics, such as state-wise unemployment rates, employment figures, labor participation rates, and geographical coordinates.
+
+
