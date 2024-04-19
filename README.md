@@ -42,4 +42,31 @@ To execute this project, Python must be installed on your system, along with the
 ### Data Source:
 The dataset for this project is contained within the file "Unemployment_Rate_upto_11_2020[1].csv". It encompasses a range of historical labor market metrics, such as state-wise unemployment rates, employment figures, labor participation rates, and geographical coordinates.
 
+# Heatmap Analysis
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/6799afae-0632-4808-aaaa-822393b5e263)
+
+# Unemployment Rate Analysis of India: Data Visualization
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/e84910fa-fe52-495b-89f9-ee287512cad5)
+
+# Pairwise Relationships
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/9d3014bb-42a9-4485-97d6-c9a4dfe47160)
+
+# Unmployment Rate and Date by Region
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/7511e934-b41d-48f6-b53b-245ac74cd359)
+
+# Unemployment Rate and Labour Participation Rate by States
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/f1417553-e376-4671-ab65-547cf83c8b2a)
+
+# Unemployment Rate according to Labour Participation
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/951311c7-b1aa-400d-bbde-f4d7253c2532)
+
+# Final Visual Summary of Unemployment Rate
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/014ff43f-8e73-422e-aad7-84dab0c9768b)
+
+
+
+
+
+
+
 
