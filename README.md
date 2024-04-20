@@ -77,9 +77,20 @@ Predicting car prices using machine learning involves building a model that can 
 6. Hyperparameter Tuning: Optimize the model's hyperparameters to enhance its predictive capability and generalization.
 7. Model Evaluation: Assess the model's performance on the test dataset using evaluation metrics like mean squared error (MSE), root mean squared error (RMSE), and R-squared (R2) score.
 8. Deployment: Once satisfied with the model's performance, deploy it in a production environment for real-world usage.
-   
+
+### Set and Requirements:
+
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/622c5cb9-b6af-4e0b-b151-77c700fb6af9)
+
+Datset:
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/8547a7dc-2181-41fe-a398-5cd28ca0e4ea)
+
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/1ca99893-07ff-44cb-8a88-63747fc82bf0)
+
+![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/22d7db6d-0f23-4aa0-9d98-40dd3e7dca38)
+ 
 ### Data Source:
-The dataset for this project can be sourced from Kaggle, a platform hosting various datasets for machine learning and data science projects. The dataset should ideally contain information about cars, including their features and corresponding prices, in a structured format such as a CSV file. The Kaggle dataset can be downloaded directly from the platform or through its API.
+The dataset for this project is contained within the file "car_data[1].csv". The dataset contains information about cars, including their features and corresponding prices, in a structured form. The Kaggle dataset can be downloaded directly from the platform.
 
 
 
