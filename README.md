@@ -82,7 +82,8 @@ Predicting car prices using machine learning involves building a model that can 
 
 ![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/622c5cb9-b6af-4e0b-b151-77c700fb6af9)
 
-Datset:
+Dataset:
+
 ![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/8547a7dc-2181-41fe-a398-5cd28ca0e4ea)
 
 ![image](https://github.com/CRMawande/data_science_internship_oasis_infobyte/assets/163488890/1ca99893-07ff-44cb-8a88-63747fc82bf0)
